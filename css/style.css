@@ -173,7 +173,7 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/bg.jpg) no-repeat center top;
+	background: url(../img/backgroundImg.jpg) no-repeat center top;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -182,6 +182,9 @@ hr {
 }
 .intro-text span{
     color: red;
+}
+.intro-text p{
+    color:#555;
 }
 .section-title.center {
 	padding: 25px 0 45px 0;
